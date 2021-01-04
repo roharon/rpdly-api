@@ -1,0 +1,5 @@
+emailSignInFailed:
+  msg: "Your account does not exist or input data is incorrect"
+
+emailSignUpFailed:
+  msg: "This E-mail is already exist"
